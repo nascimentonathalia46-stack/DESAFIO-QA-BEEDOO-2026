@@ -30,5 +30,6 @@ Alguns pontos da aplicação chamaram mais atenção durante a análise e consid
 Links das planilhas:  
 https://docs.google.com/spreadsheets/d/1M6qajSfdEj58NckedJlQmvA2NVz8b0j
 gq6HUaxZNLTo/edit?usp=sharing 
+
 https://docs.google.com/spreadsheets/d/1vxdYct3Q8wVL_AJCIal3tNLT0XxFpx
-uW4PI7_JtnCow/edit?usp=sharing
+uW4PI7_JtnCow/edit?usp=sharing 
